@@ -1,0 +1,20 @@
+{
+  "ignition": {
+    "config": {},
+    "timeouts": {},
+    "version": "2.1.0"
+  },
+  "networkd": {},
+  "passwd": {
+    "users": [
+      {
+        "name": "core",
+        "sshAuthorizedKeys": [
+          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDodZfSFnPCDlplUeQLiGENiQry5MFPgGE0OdAMXiEZsEgQQBe0uU0mGEx49OMLBlrkWcl/zrWRPLjsgl9cYrpliPsMgA8dlKiHsfuoGKkdOojGenSs+DR/yLICoP68MVHTwVbiDnhM8lSm99U1Ji2eGxGDTFWYlFsBRScHDPAqvJUme8dBPfvsOvVJAejzKu31kBFuOsg3h/rG0TydRCcGPTYnbBuwpimJq4cS3He5KsK+8vFVy6IgzqMh29gxAfKx323DwGuqLj5/ttDGkfRG4YLpFtOBsOsSuqUtMkpGJ+dzLWqfP8ngc1H2MpJhhNEYg8Cahh342DuGQjGhKdLXsjeojUw3GMTbyOhnd73NT6dFKl5sGo8AO2/Poqju9MoqX/aGG0AzeArmqND22NS+Rnn0lvH4Fvv9RJnkhdZ69NFMrBYxERLZjlA2DDJ5TMQp8XZtSEgJyJqoXAH1YaCE53inZ7FII/Ws0N4NNSeV2ikE6LKgMfZzd+/8OAvgE0ZIpeA7Scx5Yy7WkXAp0xuSeft3hDgJIFjx2EOTSTPp9OBBg2B8uSjNvL9KWHduikqbvtiMbH+eHuLSdQsK2LTTT1VzENKGSBaFAq4OaMqaMg1hw1nmp2AEP/FmVg2VuPhMeLOH0u9mcVoyuOV7a3CdDqD+ezv81XM9uXwBHaGR4w== ascreamingweas@gmail.com"
+        ]
+      }
+    ]
+  },
+  "storage": {},
+  "systemd": {}
+}
